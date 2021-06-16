@@ -16,10 +16,10 @@ A manuscript to be submitted to a peer-reviewed journal is in preparation. A pos
 I have tried to annotate the notebooks to provide as much information as possible. I will try to answer questions, but I am pretty busy and it may be some time before I can answer.
 
 ## Starting the analysis
-This github project is not finished. I am planning on three notebooks: 
-1. Notebook utility to prepare the input table (not ready)
-2. Notebook 1 to analyze input table. This is the main notebook and is available.
-3. Notebook to plot your data (not ready)
+This github project is not finished. 
+1. Notebook utility to prepare the input table. Not ready
+2. Notebook 1 to analyze input table. Available.
+3. Notebook 2 to view the output of Notebook 1 as an LD matrix. Available
 
 ---
 <pre>
@@ -30,7 +30,7 @@ UC Davis
 Davis, CA  95616
 tel: 530-752-8485
 email: lcomai@ucdavis.edu
-http://comailab.genomecenter.ucdavis.edu/
+http://comailab.org/
 </pre>
 
 
